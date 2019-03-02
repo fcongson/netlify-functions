@@ -1,4 +1,4 @@
-# netflify-functions
+# netlify-functions
 
 Lamda functions on [Netlify](https://www.netlify.com/).
 
