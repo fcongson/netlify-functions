@@ -2,6 +2,12 @@
 
 Lamda functions on [Netlify](https://www.netlify.com/).
 
+## Run
+
+```sh
+npm run start:lambda
+```
+
 ## References
 
 - **Lambda functions on Netlify** - https://www.netlify.com/docs/functions/
